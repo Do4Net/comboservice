@@ -1,0 +1,5 @@
+{
+	"Port":3001,
+	"Root":"./public",
+	"ExpressMaxAge":1000000
+}
